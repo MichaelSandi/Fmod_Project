@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{da36aede-1847-4c5b-b227-043623ae0a9a}">
+		<property name="assetPath">
+			<value>8BB Attack Hit 01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.47318749999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a4e1f097-450e-416e-afce-75385c270fe8}</destination>
+		</relationship>
+	</object>
+</objects>

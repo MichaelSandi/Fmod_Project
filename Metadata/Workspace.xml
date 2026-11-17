@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{ee3bb2ee-32c5-4224-8241-df33d37cffc4}">
+		<property name="builtBanksOutputDirectory">
+			<value>../Unity_3D-Gamekit_Student_2026/Assets/Plugins/FMOD/Banks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{9a679d02-7a05-4b44-8b30-62f93601c61c}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{df8fbb93-2f9e-4960-b0ab-97fe7407423c}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{8cb23384-4610-4833-b191-44560d84a172}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{9d3117dc-2630-4b18-a184-84895345c45e}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{8e4a56ec-f49b-48bc-9423-4b832bdff0e2}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{9669e3b9-244c-4e07-9469-9e569654fcdc}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{a4e1f097-450e-416e-afce-75385c270fe8}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{f07366aa-6a66-43d8-9338-09567f670623}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{9f5b1f6f-d7e3-41cc-b2bc-572ee878ce5f}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{1c0703a9-6899-47b7-b649-23277c144a33}</destination>
+		</relationship>
+	</object>
+</objects>

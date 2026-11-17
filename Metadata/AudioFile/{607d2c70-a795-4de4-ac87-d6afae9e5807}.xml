@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{607d2c70-a795-4de4-ac87-d6afae9e5807}">
+		<property name="assetPath">
+			<value>8BB Attack Smash 03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.52358333333333329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a4e1f097-450e-416e-afce-75385c270fe8}</destination>
+		</relationship>
+	</object>
+</objects>
